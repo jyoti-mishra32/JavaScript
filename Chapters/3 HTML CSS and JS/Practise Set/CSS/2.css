@@ -1,0 +1,7 @@
+.click-btn {
+    background-color:  black;
+    color: aliceblue;
+  }
+  button:hover {
+    background-color: red;
+  }

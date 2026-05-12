@@ -1,0 +1,21 @@
+.my-bag {
+  background-color: lightgreen;
+  color: black;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+
+.my-wish {
+  padding: 5px 35px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.my-sale {
+  background-color: lightgreen;
+  color: black;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 10px;
+}

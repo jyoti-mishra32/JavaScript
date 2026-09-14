@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JavaScript Keywords</title>
+</head>
+<body>
+  <h1>JavaScript Keywords</h1>
+  <h3>The let and const keywords create variables</h3>
+
+  <p id="demo"></p>
+
+  <script>
+    let x = 5;
+    const fname = "John";
+
+    document.getElementById("demo").innerHTML = fname + " is " + x + " years old.";
+  </script>
+  
+</body>
+</html>
